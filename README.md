@@ -1,8 +1,6 @@
 # Blockchain-CTF
 A CTF-Based Exploration of Blockchain Vulnerabilities
 
-# Blockchain Security CTF Project
-
 ## Overview
 This project is a comprehensive exploration of Blockchain security, using a Capture The Flag (CTF) approach to identify and exploit vulnerabilities within Blockchain technology and Solidity Smart Contracts. Developed as a final project for a course on Blockchain and Distributed Ledger Technology, this initiative aims to bridge theoretical knowledge with practical security exercises.
 
